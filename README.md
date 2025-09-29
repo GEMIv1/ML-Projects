@@ -1,2 +1,2 @@
 # ML-Projects
-Implementing some Machine Learning projects
+Learning ML by implementing some projects
