@@ -153,7 +153,3 @@ If you're also learning ML and want to follow a similar path:
 After building the neural network from scratch in Python, I reimplemented it in Java as a proper library: [TinyNN-Java](https://github.com/GEMIv1/TinyNN-Java)
 
 ---
-
-**If you're also learning ML and find these helpful, feel free to star the repo or reach out!**
-
-[@GEMIv1](https://github.com/GEMIv1)
